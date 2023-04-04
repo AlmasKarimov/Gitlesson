@@ -7,12 +7,12 @@ public class Main {
     }
 
     private static void mainmethodShowmessageable(){
-            System.out.println ("hello");
+            System.out.println ("hello almas. How are you");
 
          }
 
     private static void mainmethodShowinfo(){
-        System.out.println ("lets learn");
+        System.out.println ("lets learn and read");
 
     }
 
