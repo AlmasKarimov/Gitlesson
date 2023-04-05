@@ -12,7 +12,7 @@ public class Main {
          }
 
     private static void mainmethodShowinfo(){
-        System.out.println ("lets learn and read");
+        System.out.println ("lets learn and read my book");
 
     }
 
